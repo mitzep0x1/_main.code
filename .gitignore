@@ -1,5 +1,2 @@
-# init
 uv.lock
 .venv/
-.python-version
-pypoetry.toml
