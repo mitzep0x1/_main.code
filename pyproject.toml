@@ -1,0 +1,13 @@
+[project]
+name = "code.cyb3rlabs"
+version = "0.1.0"
+description = "cyb3rlabs stuff"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "pandas>=3.0.2",
+    "playwright>=1.60.0",
+]
